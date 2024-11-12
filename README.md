@@ -1,4 +1,4 @@
-**`English`** [`Français`](Français/README.md)
+**`English`** [`Français`](Resources/README.md)
 
 # 'I' Philosophical Handbook
 
