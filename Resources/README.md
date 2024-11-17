@@ -48,7 +48,7 @@
   "Souviens-toi que ce qui te cause du tort, ce n'est pas qu'on t'insulte ou qu'on te frappe, mais l'opinion que tu as qu'on te fait du tort. Donc, si quelqu'un t'a mis en colère, sache que c'est ton propre jugement le responsable de ta colère."  
   [Source](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0557.tlg002.perseus-eng1:20)
 
-    > Quand quelqu'un suscite votre colère, il est essentiel de reconnaître que cette réaction émane de votre propre cadre cognitif et émotionnel. Cela peut révéler des zones où votre compréhension et vos faiblesses intellectuelles influencent votre aptitude à répondre de façon calme et rationnelle.
+    > Quand quelqu'un suscite votre colère, il est essentiel de reconnaître que cette réaction émane de votre propre cadre cognitif et émotionnel. Il devient alors évident que votre compréhension, ainsi que vos faiblesses intellectuelles, conditionnent votre capacité à répondre de manière calme et rationnelle.
 
 - _Entretiens_, Livre 2, Chapitre 18  
   "Quiconque est capable de vous mettre en colère devient votre maître ; il ne peut vous mettre en colère que lorsque vous vous permettez d'être troublé par lui."  
@@ -60,7 +60,7 @@
   Si c’est dans un moment, pour l’instant, je déjeune, puisque l’heure est venue de le faire, ensuite je mourrai."  
   [Source](http://classics.mit.edu/Epictetus/discourses.1.one.html)
 
-    > Se lamenter sur l'inévitabilité de la mort ne sert à rien d'autre qu'à créer des distractions inutiles. Au lieu de cela, cultivez votre obsession avec un sentiment de gratitude et de certitude. La mort est une certitude, mais il en est de même pour l'opportunité de vivre pleinement jusqu'à ce moment.
+    > Se lamenter sur l'inévitabilité de la mort ne sert qu'à vous distraire inutilement. Au lieu de cela, cultivez votre obsession avec un sentiment de gratitude et de certitude. La mort est une certitude, mais il en va de même pour la possibilité de vivre pleinement jusqu'à ce moment.
 
 #### <a name="epicurus"></a> Épicure
 - _Lettre à Ménécée_, 3  
@@ -83,8 +83,6 @@
 - _L'Être et le Néant_, 1943, Partie 1, Chapitre 2  
   "Si vous vous sentez seul lorsque vous êtes avec vous-même, c’est que vous êtes en mauvaise compagnie."  
   [Source](https://archive.org/details/ltreetlenantessa0000sart)
-
-    > Quand on se sent seul même dans la solitude, cela révèle une dissociation entre ses propres pensées et ses sentiments. Cela suggère que le malaise n'est pas uniquement dû à l'absence des autres, mais bel et bien à la manière dont les distractions externes peuvent empêcher de trouver du confort et du sens en soi-même.
 
 - _Le Diable et le Bon Dieu_, 1951, Troisième Acte  
   "Tu vois ce vide au-dessus de nos têtes ? C'est Dieu. Le silence, c'est Dieu, l'absence c'est Dieu. Dieu, est la solitude des hommes."  

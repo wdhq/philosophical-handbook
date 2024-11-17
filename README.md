@@ -48,7 +48,7 @@
   "Remember that it is not he who reviles or strikes you who insults you, but your opinion that these things are insulting. So when anyone makes you angry, know that it is your own thought that has angered you."  
   [Source](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0557.tlg002.perseus-eng1:20)
 
-    > When someone triggers your anger, it's important to acknowledge that this reaction originates within your own cognitive and emotional framework. This may highlight areas where your understanding and intellectual shortcomings affect your ability to respond calmly and rationally.
+    > When someone triggers your anger, it's important to acknowledge that this reaction originates within your own cognitive and emotional framework. Thus it becomes clear that your understanding, as well as your intellectual weaknesses, condition your ability to respond calmly and rationally.
 
 - _Discourses_, Book 2, Chapter 18 
   "Any person capable of angering you becomes your master; he can anger you only when you permit yourself to be disturbed by him."  
@@ -60,7 +60,7 @@
   If later, then now I will take my lunch, since the hour for lunch has arrived – and dying I will tend to later."  
   [Source](http://classics.mit.edu/Epictetus/discourses.1.one.html)
 
-    > Lamenting over the inevitability of death serves no purpose and creates nothing but unnecessary distraction. Instead, cultivate your obsession with a sense of gratitude and certainty. Death is a certainty, but so is the opportunity to live fully until that time comes.
+    > Lamenting over the inevitability of death serves no purpose and creates nothing but unnecessary distraction. Instead, cultivate your obsession with a sense of gratitude and certainty. Death is a certainty, but so is the possibility of living fully until that moment.
 
 #### <a name="epicurus"></a> Epicurus
 - _Letter to Menoeceus_, 3  
@@ -83,8 +83,6 @@
 - _Being and Nothingness_, 1943, Part 1, Chapter 2  
   "If you are lonely when you're alone, you are in bad company."  
   [Source](https://archive.org/details/beingnothingness0000sart)
-
-    > When one feels lonely even in solitude, it reveals a disconnection from one’s own thoughts and feelings. This suggests that the discomfort isn’t solely about the absence of others, but also about how external distractions may prevent one from finding comfort and meaning within oneself.
 
 - _The Devil and the Good Lord_, 1951, Third Act  
   "See that void above our heads? That's God. Silence is God, absence is God. God is the solitude of men."  
